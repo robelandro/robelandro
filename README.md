@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robelandro
 - 👀 I’m interested in android app delpoment and os development
-- 🌱 I’m currently learning java and android studio
+- 🌱 I’m currently Working on java and android studio development
 - 💞️ I’m looking to collaborate on android os development
 - 📫 How to reach me robelpopandro@gmail.com
 
