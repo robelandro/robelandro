@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robelpop (Nftalem)</h1>
-<h3 align="center">Imagine a dynamic individual who brings a unique blend of technical skills as a Fullstack Developer and electrical engineering knowledge to the table. Meet Nftalem, a passionate professional hailing from the vibrant country of Ethiopia. With a drive to continuously improve and excel in their field, Nftalem promises to bring a fresh perspective and unwavering passion to any project they take on. Trust us, your company won't regret bringing this talented individual onboard.</h3>
+<h1 align="center">Hi 👋, I'm Robelpop</h1>
+<h3 align="center">Imagine a dynamic individual who brings a unique blend of technical skills as a Fullstack Developer and electrical engineering knowledge to the table. Meet Robelpop, a passionate professional hailing from the vibrant country of Ethiopia. With a drive to continuously improve and excel in their field, Robelpop promises to bring a fresh perspective and unwavering passion to any project they take on. Trust us, your company won't regret bringing this talented individual onboard.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robelandro" alt="robelandro" /></a> </p>
 
