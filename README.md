@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What happens when you type google.com in your browser and press Enter?](https://medium.com/@robelpopandro/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-24cbb6f22881?source=rss-bac989574dad------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
