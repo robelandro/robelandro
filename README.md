@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nftalem-arega-8a40581a3/](https://www.linkedin.com/in/nftalem-arega-8a40581a3/)
 
-- ⚡ Fun fact **I think I am nerd.**
+- ⚡ Fun fact **I Like Shot Cut.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
