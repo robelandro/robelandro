@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robelpop</h1>
-<h3 align="center">Robelpop is a Fullstack Developer and electrical engineer from Ethiopia. I is passionate, innovative and diverse.</h3>
+<h3 align="center">I am a Fullstack Developer and electrical engineer from Ethiopia. I am passionated, innovative and diverse.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
