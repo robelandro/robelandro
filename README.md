@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robelpop</h1>
+<h1 align="center">Hi 👋, I'm Nftalem Arega(RobelPop)</h1>
+<h2 align="center">In this repository, you will see public work of mine, in which I am a contributor. Nftalem Arega (RobelPop)</h2>
 <h3 align="center">I am a Fullstack Developer and electrical engineer from Ethiopia. I am passionated, innovative and diverse.</h3>
 
 <h3 align="left">Connect with me:</h3>
