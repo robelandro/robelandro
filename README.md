@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Postmortem](https://medium.com/@robelpopandro/postmortem-f6118a473313?source=rss-bac989574dad------2)
 - [What happens when you type google.com in your browser and press Enter?](https://medium.com/@robelpopandro/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-24cbb6f22881?source=rss-bac989574dad------2)
 <!-- BLOG-POST-LIST:END -->
 
